@@ -7,9 +7,12 @@ Not a full replica, as this component was built for my own personal needs, howev
 That being said, since my app is developed for iOS, I have not tested in android 😭, however, this is using well managed packages such as expo-blur, skia, and reanimated. Fingers crossed all is well.
 
 Create an expo dev build
+
+```
 npm install
 
-npm expo prebuild 
+npx expo prebuild 
 
-npm expo run ios
+npx expo run ios
 
+```
